@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Algumas das minhas redes sociais ↴ 
+  ### ↴ Algumas das minhas redes sociais ↴ 
  
 <div> 
  
