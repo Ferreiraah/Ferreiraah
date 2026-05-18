@@ -1,17 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
- <div>
-   <a href="https://github.com/Ferreiraah">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferreiraah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferreiraah&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" >
 </div>
- 
  <br>
- 
   ### ☛ Meus Contatos ↴ 
  
 <div> 
