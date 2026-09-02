@@ -14,9 +14,3 @@ Trago a vivência de quem resolve problemas críticos de infraestrutura e hardwa
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
----
-
-### 🚀 Projetos em Destaque
-
-- **Sistema de Gestão de Estoque AV (QR Code)**: Backend desenvolvido em Java aplicando POO. Gerencia entrada/saída de equipamentos (painéis, cabos), bloqueia itens em manutenção, monta listas de carga para eventos e persiste dados dinamicamente.
