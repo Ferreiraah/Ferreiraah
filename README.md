@@ -2,8 +2,6 @@
 
 **Desenvolvedor Backend Java.** Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS).
 
-Trago a vivência de quem resolve problemas críticos de infraestrutura e hardware em tempo real no backstage de eventos, aplicando essa mesma resiliência na engenharia de software. Meu foco é traduzir regras de negócio complexas em código limpo, garantindo que a operação nunca pare.
-
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 - 💻 Focado na construção de sistemas corporativos **Backend com Java**
 - 🔧 Experiência prática lidando com alta pressão e resolução ágil de problemas no setor Audiovisual
